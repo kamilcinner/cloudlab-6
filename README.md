@@ -8,7 +8,7 @@ This service consists of three component services:
 - PHP server (php:7.3-rc-fpm-alpine),
 - MySQL server (mysql:5.7.36).
 
-Use a command to start the service:
+Use a command to start the service accessible on port 8081:
 
 `docker-compose up`
 
