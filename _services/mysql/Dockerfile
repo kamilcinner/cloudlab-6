@@ -1,0 +1,2 @@
+FROM mysql:5.7.36
+ENV MYSQL_ROOT_PASSWORD rootpassword
